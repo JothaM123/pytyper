@@ -11,4 +11,5 @@ pytype("Whatever your txt is",0.02)
 
 
 Feel free to contribute to this project by sending me a mail on the updates you wanna include...
+Oh and download the library from GitHub
 
